@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>2.0b2</em:minVersion>
+        <em:maxVersion>18.0.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+
+    <em:id>{8051A235-3BDB-4450-9C02-8CD8C6F9E2CB}</em:id>
+    <em:version>0.3.4</em:version>
+    <em:name>Context Highlight</em:name>
+    <em:description>Lets you highlight words on the page via the context menu.</em:description>
+    <em:creator>Ben Basson</em:creator>
+    <em:homepageURL>http://www.cusser.net</em:homepageURL>
+
+    <em:contributor>Rue - Binary Search Algorithm.</em:contributor>
+    <em:contributor>eXtenZilla.it - Italian Locale.</em:contributor>
+    <em:contributor>Hendrik Gebhardt (Henne) - German Locale.</em:contributor>
+    <em:contributor>Norah Marinkovic - Japanese Locale.</em:contributor>
+    <em:contributor>Fabrice Roux - French Locale.</em:contributor>
+    <em:contributor>Jan Matousek - Czech Locale.</em:contributor>
+    <em:contributor>K&#243;sz&#243; J&#243;zsef - Hungarian Locale.</em:contributor>
+    
+  </Description>      
+</RDF>

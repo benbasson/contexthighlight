@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Zvýrazni slovo">
+<!ENTITY contexthighlight.word.accel "Z">
+<!ENTITY contexthighlight.words.label "Zvýrazni slova">
+<!ENTITY contexthighlight.words.accel "Z">
+<!ENTITY contexthighlight.phrase.label "Zvýrazni frázi">
+<!ENTITY contexthighlight.phrase.accel "F">
+<!ENTITY contexthighlight.clear.label "Zruš zvýraznění">
+<!ENTITY contexthighlight.clear.accel "Z">

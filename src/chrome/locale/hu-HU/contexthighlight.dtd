@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Szó kiemelése">
+<!ENTITY contexthighlight.word.accel "K">
+<!ENTITY contexthighlight.words.label "Szavak kiemelése">
+<!ENTITY contexthighlight.words.accel "V">
+<!ENTITY contexthighlight.phrase.label "Kifejezés kiemelése">
+<!ENTITY contexthighlight.phrase.accel "F">
+<!ENTITY contexthighlight.clear.label "Szövegkiemelés megszüntetése">
+<!ENTITY contexthighlight.clear.accel "S">

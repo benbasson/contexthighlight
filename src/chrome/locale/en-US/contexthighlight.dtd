@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Highlight Word">
+<!ENTITY contexthighlight.word.accel "H">
+<!ENTITY contexthighlight.words.label "Highlight Words">
+<!ENTITY contexthighlight.words.accel "H">
+<!ENTITY contexthighlight.phrase.label "Highlight Phrase">
+<!ENTITY contexthighlight.phrase.accel "P">
+<!ENTITY contexthighlight.clear.label "Clear Highlighting">
+<!ENTITY contexthighlight.clear.accel "C">

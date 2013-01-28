@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "將反白部份注目標示">
+<!ENTITY contexthighlight.word.accel "H">
+<!ENTITY contexthighlight.words.label "將反白部份注目標示">
+<!ENTITY contexthighlight.words.accel "H">
+<!ENTITY contexthighlight.phrase.label "將此英文片語注目標示">
+<!ENTITY contexthighlight.phrase.accel "P">
+<!ENTITY contexthighlight.clear.label "清除注目標示的部份">
+<!ENTITY contexthighlight.clear.accel "C">

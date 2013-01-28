@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Evidenzia la parola">
+<!ENTITY contexthighlight.word.accel "E">
+<!ENTITY contexthighlight.words.label "Evidenzia le parole">
+<!ENTITY contexthighlight.words.accel "E">
+<!ENTITY contexthighlight.phrase.label "Evidenzia la frase">
+<!ENTITY contexthighlight.phrase.accel "F">
+<!ENTITY contexthighlight.clear.label "Annulla evidenziazioni">
+<!ENTITY contexthighlight.clear.accel "A">

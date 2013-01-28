@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Surligner le mot">
+<!ENTITY contexthighlight.word.accel "S">
+<!ENTITY contexthighlight.words.label "Surligner les mots">
+<!ENTITY contexthighlight.words.accel "S">
+<!ENTITY contexthighlight.phrase.label "Surligner la phrase">
+<!ENTITY contexthighlight.phrase.accel "P">
+<!ENTITY contexthighlight.clear.label "Annuler le surlignage">
+<!ENTITY contexthighlight.clear.accel "A">

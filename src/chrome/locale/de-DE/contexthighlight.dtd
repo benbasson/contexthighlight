@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Wort markieren">
+<!ENTITY contexthighlight.word.accel "M">
+<!ENTITY contexthighlight.words.label "Wörter markieren">
+<!ENTITY contexthighlight.words.accel "W">
+<!ENTITY contexthighlight.phrase.label "Ausdruck markieren">
+<!ENTITY contexthighlight.phrase.accel "A">
+<!ENTITY contexthighlight.clear.label "Markierung zurücksetzen">
+<!ENTITY contexthighlight.clear.accel "Z">

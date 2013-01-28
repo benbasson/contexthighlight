@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "単語の強調表示">
+<!ENTITY contexthighlight.word.accel "H">
+<!ENTITY contexthighlight.words.label "選択した部分の単語を強調表示">
+<!ENTITY contexthighlight.words.accel "H">
+<!ENTITY contexthighlight.phrase.label "選択した文章を強調表示">
+<!ENTITY contexthighlight.phrase.accel "P">
+<!ENTITY contexthighlight.clear.label "強調表示を解除する">
+<!ENTITY contexthighlight.clear.accel "C">
