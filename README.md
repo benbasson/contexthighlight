@@ -15,10 +15,10 @@ Authors
 
 Contributors
 ------------
- - Rue - Binary Search Algorithm.
- - eXtenZilla.it - Italian Locale.
- - Hendrik Gebhardt (Henne) - German Locale.
- - Norah Marinkovic - Japanese Locale.
- - Fabrice Roux - French Locale.
- - Jan Matousek - Czech Locale.
- - Kószó József - Hungarian Locale.
+ - Rue (binary text search algorithm)
+ - eXtenZilla.it (it-IT locale)
+ - Hendrik Gebhardt (de-DE locale)
+ - Norah Marinkovic (ja-JP locale)
+ - Fabrice Roux (fr-FR locale)
+ - Jan Matousek (cs-CZ locale)
+ - KÃ³szÃ³ JÃ³zsef (hu-HU locale)
