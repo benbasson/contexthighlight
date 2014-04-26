@@ -1,10 +1,10 @@
 overlay	chrome://browser/content/browser.xul	chrome://contexthighlight/content/contexthighlightOverlay.xul
-content	contexthighlight	chrome/content/
-locale	contexthighlight	it-IT	chrome/locale/it-IT/
-locale	contexthighlight	en-US	chrome/locale/en-US/
-locale	contexthighlight	de-DE	chrome/locale/de-DE/
-locale	contexthighlight	ja-JP	chrome/locale/ja-JP/
-locale	contexthighlight	fr-FR	chrome/locale/fr-FR/
-locale	contexthighlight	cs-CZ	chrome/locale/cs-CZ/
-locale	contexthighlight	hu-HU	chrome/locale/hu-HU/
+content contexthighlight  chrome/content/
+locale  contexthighlight  it-IT	chrome/locale/it-IT/
+locale  contexthighlight  en-US	chrome/locale/en-US/
+locale  contexthighlight  de-DE	chrome/locale/de-DE/
+locale  contexthighlight  ja-JP	chrome/locale/ja-JP/
+locale  contexthighlight  fr-FR	chrome/locale/fr-FR/
+locale  contexthighlight  cs-CZ	chrome/locale/cs-CZ/
+locale  contexthighlight  hu-HU	chrome/locale/hu-HU/
 locale  contexthighlight  zh-TW chrome/locale/zh-TW/
