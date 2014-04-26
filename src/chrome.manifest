@@ -8,3 +8,5 @@ locale  contexthighlight  fr-FR	chrome/locale/fr-FR/
 locale  contexthighlight  cs-CZ	chrome/locale/cs-CZ/
 locale  contexthighlight  hu-HU	chrome/locale/hu-HU/
 locale  contexthighlight  zh-TW chrome/locale/zh-TW/
+locale  contexthighlight  es-CL chrome/locale/es-CL/
+locale  contexthighlight  es-ES chrome/locale/es-ES/

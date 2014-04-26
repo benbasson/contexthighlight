@@ -22,3 +22,4 @@ Contributors
  - Fabrice Roux (fr-FR locale)
  - Jan Matousek (cs-CZ locale)
  - Kószó József (hu-HU locale)
+ - Marcelo Alejandro Soto Rodríguez (es-CL, es-ES locales)

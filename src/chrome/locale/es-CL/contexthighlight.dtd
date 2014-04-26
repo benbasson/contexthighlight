@@ -1,0 +1,8 @@
+<!ENTITY contexthighlight.word.label "Destacar Palabra">
+<!ENTITY contexthighlight.word.accel "D">
+<!ENTITY contexthighlight.words.label "Destacar Palabras">
+<!ENTITY contexthighlight.words.accel "D">
+<!ENTITY contexthighlight.phrase.label "Destacar Frase">
+<!ENTITY contexthighlight.phrase.accel "F">
+<!ENTITY contexthighlight.clear.label "Limpiar Destacado">
+<!ENTITY contexthighlight.clear.accel "L">
