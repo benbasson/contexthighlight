@@ -4,10 +4,7 @@ Context Highlight is a simple tool that allows you to highlight all instances (w
 
 Installation
 ------------
-Drag and drop the latest XPI file from the build folder into a Firefox window. Alternatively, you can install the extension from:
-
- - https://addons.mozilla.org/en-US/firefox/addon/context-highlight/
- - http://www.cusser.net/extensions/contexthighlight/
+Drag and drop the latest XPI file from the build folder into a Firefox window. Alternatively, you can install the extension from https://addons.mozilla.org/en-US/firefox/addon/context-highlight/
 
 Authors
 -------
