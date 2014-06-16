@@ -18,7 +18,7 @@
     <em:name>Context Highlight</em:name>
     <em:description>Lets you highlight words on the page via the context menu.</em:description>
     <em:creator>Ben Basson</em:creator>
-    <em:homepageURL>http://www.cusser.net</em:homepageURL>
+    <em:homepageURL>http://www.basson.at/firefox-addons/contexthighlight</em:homepageURL>
 
     <em:contributor>Rue (binary text search algorithm)</em:contributor>
     <em:contributor>eXtenZilla.it (it-IT locale)</em:contributor>
