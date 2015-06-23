@@ -333,6 +333,10 @@ var contextHL = {
       
       span.style.backgroundColor = "rgb(" + bgColour + ")";
       span.style.color = "rgb(" + textColour + ")";
+      span.style.display = "inline";
+      span.style.cssFloat = "inherit";
+      span.style.fontWeight = "inherit";
+      span.style.margin = "inherit";
       
       span.appendChild(clone);
       matchText.parentNode.replaceChild(span,matchText);
