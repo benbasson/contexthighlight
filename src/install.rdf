@@ -9,12 +9,12 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>2.0b2</em:minVersion>
-        <em:maxVersion>29.*</em:maxVersion>
+        <em:maxVersion>38.*</em:maxVersion>
       </Description>
     </em:targetApplication>
 
     <em:id>{8051A235-3BDB-4450-9C02-8CD8C6F9E2CB}</em:id>
-    <em:version>0.3.5</em:version>
+    <em:version>0.3.6</em:version>
     <em:name>Context Highlight</em:name>
     <em:description>Lets you highlight words on the page via the context menu.</em:description>
     <em:creator>Ben Basson</em:creator>
